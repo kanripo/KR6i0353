@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:06.386655
+#+DATE: 2015-08-30 20:17:09.298107
 #+TITLE: 解深密經
 #+PROPERTY: CBETA_ID T16n0676
 #+PROPERTY: ID KR6i0353
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 676
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0353_T_004-0703b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《解深密經》卷第四¶
+《解深密經》卷第四¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
-7地波羅蜜多品(四)
-:PROPERTIES:
-:head: 地波羅蜜多品第七
-:END:
-¶
+地波羅蜜多品第七¶
 
 爾時，觀自在菩薩白佛言：「世尊！如佛所說¶
 菩薩十地，所謂極喜地、離垢地、發光地、焰慧¶
@@ -320,7 +315,7 @@
 者、於隨所樂縱身、語、意而現行中，深見功德¶
 及與勝利；三者、於他輕蔑不堪忍中，深見功¶
 德及與勝利；四者、於不勤修著欲樂中，深見¶
-功德及與勝利；五者、於處憒鬧世雜亂行，¶
+功德及與勝利；五者、於處憒闌世雜亂行，¶
 深見功德及與勝利；六者、於見、聞、覺、知、言說¶
 戲論，深見功德及與勝利。」
 
