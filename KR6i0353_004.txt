@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:06.386655
+#+DATE: 2015-08-30 20:17:08.932707
 #+TITLE: 解深密經
 #+PROPERTY: CBETA_ID T16n0676
 #+PROPERTY: ID KR6i0353
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 676
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0353_T_004-0703b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《解深密經》卷第四¶
+《解深密經》卷第四¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
-7地波羅蜜多品(四)
-:PROPERTIES:
-:head: 地波羅蜜多品第七
-:END:
-¶
+地波羅蜜多品第七¶
 
 爾時，觀自在菩薩白佛言：「世尊！如佛所說¶
 菩薩十地，所謂極喜地、離垢地、發光地、焰慧¶

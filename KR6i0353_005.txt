@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:06.415738
+#+DATE: 2015-08-30 20:17:08.955419
 #+TITLE: 解深密經
 #+PROPERTY: CBETA_ID T16n0676
 #+PROPERTY: ID KR6i0353
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 676
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0353_T_005-0708b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《解深密經》卷第五¶
+《解深密經》卷第五¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
-8如來成所作事品(五)
-:PROPERTIES:
-:head: 如來成所作事品第八
-:END:
-¶
+如來成所作事品第八¶
 
 爾時，曼殊室利菩薩摩訶薩請問佛言：「世¶
 尊！如佛所說如來法身，如來法身有何等¶
